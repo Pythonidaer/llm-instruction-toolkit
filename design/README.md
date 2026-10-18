@@ -1,0 +1,33 @@
+# Website design guidance
+
+Build clear, usable websites with deliberate identity. Interrupt automatic design habits, then choose coherent patterns that serve the content.
+
+## Read and apply
+
+1. Confirm the intended repository, current source, audience, primary task, and existing project instructions.
+2. Apply the three [AI design reset](ai-design-reset/visual-styling.md) files together: appearance, content, and structure.
+3. Use [frosted header with dropdown](patterns/navigation/frosted-header-dropdown.md) as the current navigation default for new work without an established navigation choice.
+4. Select [content reveals](patterns/motion/staggered-content-reveal.md) or the [interactive roadmap](patterns/learning/interactive-roadmap.md) only when appropriate.
+5. Record intentional choices, exceptions, and verification limits in the consuming project.
+
+Preserve existing approved project design during unrelated work. The navigation default is a replaceable starting point, not an instruction to retrofit every website. Explicit project requirements and user decisions take precedence.
+
+## Files
+
+| File | Role |
+| --- | --- |
+| [Visual styling](ai-design-reset/visual-styling.md) | Fonts, color, surfaces, decoration, and icon treatment |
+| [Content design](ai-design-reset/content-design.md) | Wording, labels, explanations, and feedback |
+| [Layout and information architecture](ai-design-reset/layout-and-information-architecture.md) | Hierarchy, grouping, page structure, and navigation |
+| [Frosted header and dropdown](patterns/navigation/frosted-header-dropdown.md) | Current default navigation pattern |
+| [Staggered content reveal](patterns/motion/staggered-content-reveal.md) | Optional motion recipe with independently adjustable timing |
+| [Interactive roadmap](patterns/learning/interactive-roadmap.md) | Optional learning diagram and topic-reading pattern |
+| [Sources](sources.md) | Provenance, scope, and superseded guidance |
+
+## Maintaining the system
+
+The reset challenges defaults; it does not prescribe a permanent theme or guarantee brand identity. Fonts, colors, cards, and gradients can be useful when selected for a reason. No emojis or text-character substitute UI icons is an explicit preference.
+
+Keep shared principles here and exact project choices in project documentation. Change the default pattern link above when a replacement is approved; preserve existing projects' choices unless asked to migrate them. Record a decision, reason, alternative, and practical check. Separate implementation, automated checks, deployment, and visual verification.
+
+These Markdown files require explicit loading or integration into a project's instructions. They do not automatically activate across repositories.
