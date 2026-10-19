@@ -6,9 +6,10 @@ Build clear, usable websites with deliberate identity. Interrupt automatic desig
 
 1. Confirm the intended repository, current source, audience, primary task, and existing project instructions.
 2. Apply the three [AI design reset](ai-design-reset/visual-styling.md) files together: appearance, content, and structure.
-3. Use [frosted header with dropdown](patterns/navigation/frosted-header-dropdown.md) as the current navigation default for new work without an established navigation choice.
-4. Select [content reveals](patterns/motion/staggered-content-reveal.md) or the [interactive roadmap](patterns/learning/interactive-roadmap.md) only when appropriate.
-5. Record intentional choices, exceptions, and verification limits in the consuming project.
+3. For content work, read [Content and tone guidance](content-and-tone/best-practices.md) and use [Project questions](content-and-tone/project-questions.md) to establish a project brief.
+4. Use [frosted header with dropdown](patterns/navigation/frosted-header-dropdown.md) as the current navigation default for new work without an established navigation choice.
+5. Select [content reveals](patterns/motion/staggered-content-reveal.md) or the [interactive roadmap](patterns/learning/interactive-roadmap.md) only when appropriate.
+6. Record intentional choices, exceptions, and verification limits in the consuming project.
 
 Preserve existing approved project design during unrelated work. The navigation default is a replaceable starting point, not an instruction to retrofit every website. Explicit project requirements and user decisions take precedence.
 
@@ -17,7 +18,9 @@ Preserve existing approved project design during unrelated work. The navigation 
 | File | Role |
 | --- | --- |
 | [Visual styling](ai-design-reset/visual-styling.md) | Fonts, color, surfaces, decoration, and icon treatment |
-| [Content design](ai-design-reset/content-design.md) | Wording, labels, explanations, and feedback |
+| [Content design reset](ai-design-reset/content-design.md) | Wording pitfalls, repetition, misleading feedback and tone defaults |
+| [Content and tone guidance](content-and-tone/best-practices.md) | User needs, writing, tone, evaluation and maintenance |
+| [Project questions](content-and-tone/project-questions.md) | A small-batch intake and adaptable project tone brief |
 | [Layout and information architecture](ai-design-reset/layout-and-information-architecture.md) | Hierarchy, grouping, page structure, and navigation |
 | [Frosted header and dropdown](patterns/navigation/frosted-header-dropdown.md) | Current default navigation pattern |
 | [Staggered content reveal](patterns/motion/staggered-content-reveal.md) | Optional motion recipe with independently adjustable timing |
