@@ -21,6 +21,7 @@ Preserve existing approved project design during unrelated work. The navigation 
 | [Content design reset](ai-design-reset/content-design.md) | Wording pitfalls, repetition, misleading feedback and tone defaults |
 | [Content and tone guidance](content-and-tone/best-practices.md) | User needs, writing, tone, evaluation and maintenance |
 | [Mailchimp voice and tone](content-and-tone/mailchimp-tone-voice.md) | Optional voice profile, contextual tone rules, examples and review checks |
+| [Mailchimp grammar and mechanics](content-and-tone/mailchimp-grammar-mechanics.md) | Optional house style for grammar, punctuation, numbers, naming and formatting |
 | [Project questions](content-and-tone/project-questions.md) | A small-batch intake and adaptable project tone brief |
 | [Layout and information architecture](ai-design-reset/layout-and-information-architecture.md) | Hierarchy, grouping, page structure, and navigation |
 | [Frosted header and dropdown](patterns/navigation/frosted-header-dropdown.md) | Current default navigation pattern |
