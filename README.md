@@ -7,7 +7,7 @@ A central collection of development guidance built from my study notes and exper
 | Folder | Focus | Current coverage |
 | --- | --- | --- |
 | [design](design/README.md) | Deliberate website design and reusable patterns | AI design reset, content and tone guidance, project questions, default navigation, optional motion and roadmap |
-| [clean-code](clean-code/README.md) | Code readability, maintainability and safe improvements | Reviewed notes from Chapters 1–2 |
+| [clean-code](clean-code/README.md) | Code readability, maintainability and safe improvements | Reviewed notes from Chapters 1–3 |
 
 ## Use this repository
 

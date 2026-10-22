@@ -8,6 +8,7 @@ Help the next reader understand the code and make the next change safely. These 
 | --- | --- |
 | [chapter-1-foundations.md](chapter-1-foundations.md) | Readability, focused responsibilities, deliberate boundaries and small checked improvements |
 | [chapter-2-meaningful-names.md](chapter-2-meaningful-names.md) | Names that communicate meaning, roles, units and useful context |
+| [chapter-3-functions.md](chapter-3-functions.md) | Function purpose, abstraction, inputs, effects, failures and refinement |
 | [review-workflow.md](review-workflow.md) | A repeatable way to apply the rules to an authorized task |
 | [sources.md](sources.md) | Source notes, coverage and future maintenance |
 
