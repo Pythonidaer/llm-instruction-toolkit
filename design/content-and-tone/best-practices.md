@@ -54,6 +54,20 @@ Shorten without changing meaning: permission, obligation and possibility are dif
 
 A shared disclaimer on every resource slide creates reading work. Prefer one clear course/source explanation, while retaining specific warnings at the links or actions that need them.
 
+## Keep authoring context out of public copy
+
+Write for the person using the published website, not for the owner discussing its creation with an assistant.
+
+- Do not publish assistant-to-owner messages, implementation handoffs, design rationales, approval history, or references to the authoring conversation as interface copy. Keep those in the conversation or appropriate repository documentation.
+- Avoid phrases such as “your project,” “as you requested,” “we added,” or “based on your notes” when they address the creator rather than the actual visitor. Such wording can be appropriate only when the visitor really is the person being addressed and the context is available to them.
+- Public readers should not need access to a private conversation to understand the page. Include provenance or attribution only where it serves the reader, using neutral, self-contained wording.
+- Do not automatically open with a count followed by a comma and an abstract description, such as “Eight websites, examined through the ideas in your Type Study project.” Counts are useful when they support a task; do not use them as decorative editorial framing or repeat them unnecessarily.
+- Prefer deletion when the title and interface already explain the page. Do not replace removed filler with another slogan or redundant summary.
+
+Before publishing, ask: “Who does ‘you’ refer to here? Would a first-time visitor understand this without knowing how the site was made? Does the sentence help that visitor decide or act?”
+
+For the example above, remove the sentence when “Website typography studies” and the gallery already establish the subject. If a summary is genuinely needed, describe the visitor’s task or the contents directly, without mentioning the assistant’s collaboration with the owner.
+
 ## Design for access and different contexts
 
 - Use semantic headings, descriptive links and meaningful control labels, including accessible names for icon-only controls.
