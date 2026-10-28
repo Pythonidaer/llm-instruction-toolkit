@@ -16,6 +16,8 @@ For the full workflow, read [Content and tone guidance](../content-and-tone/best
 - Do not invent testimonials, customers, statistics, or performance claims. Identify fictional examples and distinguish measured values from estimates.
 - Use plain visible sequence numbers: 1, 2, 3. Preserve meaningful formats such as dates, times, and identifiers.
 - Give icon-only controls accessible names on the controls themselves. A tooltip alone is insufficient. The menu trigger and close state form a consistent visual pair; this does not remove useful labels elsewhere.
+- Keep assistant-to-owner conversation out of public copy. Do not address the creator’s project, requests, notes, or approval history as though visitors share that context. Write for the actual audience; keep authoring rationale in chat or repository documentation. See [the public-copy guidance](../content-and-tone/best-practices.md#keep-authoring-context-out-of-public-copy).
+- Do not default to count-first editorial fragments such as “Eight websites, examined…” when the count and framing add no useful information. Use counts when they serve a task; delete redundant introductions rather than replacing them with another slogan.
 - Add personality after meaning is clear. Deliberate expressive writing remains available when it serves the subject.
 
 ## Avoid these content and tone habits
