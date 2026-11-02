@@ -52,7 +52,7 @@ Lead with goals, disclose details progressively, keep terminology consistent, an
 
 ## Additional project rules for AI-generated websites
 
-These are authored project instructions addressing the requested website-writing concerns, separate from the Google adaptation above.
+These are authored project instructions addressing the requested writing-decisions concerns, separate from the Google adaptation above.
 
 ### Establish the content brief
 Identify the intended visitor, their main task, and what they need to know at each point. Resolve material uncertainty with the site owner.

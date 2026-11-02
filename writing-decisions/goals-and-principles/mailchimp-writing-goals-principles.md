@@ -1,6 +1,6 @@
 # Mailchimp writing goals and principles
 
-Use this reference when planning, drafting or reviewing content for a project that adopts Mailchimp-inspired writing guidance. Apply it alongside [Content and tone guidance](../best-practices.md), [Mailchimp voice and tone](../voice-and-rules/mailchimp-tone-voice.md) and [Mailchimp grammar and mechanics](mailchimp-grammar-mechanics.md).
+Use this reference when planning, drafting or reviewing content for a project that adopts Mailchimp-inspired writing guidance. Apply it alongside [Content and tone guidance](../best-practices.md), [Mailchimp voice and tone](../voice-and-rules/mailchimp-tone-voice.md) and [Mailchimp grammar and mechanics](../grammar-and-mechanics/mailchimp-grammar-mechanics.md).
 
 These rules adapt the user-supplied “Writing Goals and Principles” excerpt. Apply the principles to the actual product, audience and task; do not claim Mailchimp's identity or business context for another organisation. Explicit user instructions and approved project decisions take precedence.
 
