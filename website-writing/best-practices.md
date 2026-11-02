@@ -13,7 +13,7 @@ This is an original synthesis of the content-design LMS and its source map. It c
 5. Test comprehension and task completion, then revise.
 6. Assign ownership, sources and review triggers.
 
-Use the [AI content reset](../ai-design-reset/content-design.md) to catch automatic writing habits. Record the chosen tone in the consuming project; do not turn one project's preferences into global toolkit rules.
+Use the [AI content reset](../design/ai-design-reset/content-design.md) to catch automatic writing habits. Record the chosen tone in the consuming project; do not turn one project's preferences into global toolkit rules.
 
 ## Start with a useful outcome
 
@@ -78,54 +78,10 @@ For the example above, remove the sentence when “Website typography studies”
 - Do not treat machine translation or an automated accessibility/readability score as proof of understanding.
 - For learning content, connect the explanation, example, practice and feedback to a useful learning outcome. A short slide is a delivery choice, not proof that learning occurred.
 
-## Establish a voice and adapt its tone
+## Voice and tone guidance
 
-Voice is the relatively stable identity of the organisation or product. Tone adapts to the purpose, reader and situation. Writing style also includes mechanics such as spelling, punctuation and terminology. Keep these decisions distinct.
-
-Choose one initial profile across all four [NN/g dimensions](https://www.nngroup.com/articles/tone-of-voice-dimensions/):
-
-| Dimension | Spectrum |
-| --- | --- |
-| Formality | Formal to casual |
-| Humour | Serious to funny |
-| Respectfulness | Respectful to irreverent |
-| Enthusiasm | Matter-of-fact to enthusiastic |
-
-These are independent spectrums, not four exclusive tones or a quality ranking. Refine the profile with a few target qualities and qualities to avoid. Use [Project questions](project-questions.md) to make the choices concrete.
-
-Keep facts, conditions and actions unchanged when comparing tone variants. A tone preference never justifies misleading or unusable content.
-
-## Use tone qualities deliberately
-
-These overlapping qualities are an authored teaching aid from the LMS, not an exhaustive or official GOV.UK taxonomy.
-
-| Quality | Apply it through | Avoid |
-| --- | --- | --- |
-| Reassuring | Verified status and useful options | Promises of safety or recovery without evidence |
-| Authoritative | Accurate, supported guidance | Jargon, condescension and unsupported certainty |
-| Instructional | Specific actions in a useful order | Vague directions and missing prerequisites |
-| Conversational | Natural, direct wording | Filler, slang that excludes readers and hidden conditions |
-| Encouraging | Specific feedback on progress | Empty praise or unsupported claims of mastery |
-| Empathetic | Acknowledgement and practical help | Assuming the reader's feelings or manufacturing intimacy |
-| Playful | Appropriate lightness in low-stakes situations | Jokes that obscure a task or blame the reader |
-| Urgent | Real deadlines and consequences | Invented scarcity or pressure |
-| Neutral | Accurate information with restrained emotion | Unhelpful brevity or vague status |
-| Celebratory | Proportionate recognition of a real result | Exaggeration and premature success messages |
-
-Respectfulness remains a requirement toward people even when a brand is irreverent about its subject. Do not make every message enthusiastic, humorous or emotionally flat by default.
-
-## Adapt tone to the situation
-
-| Situation | Consider |
-| --- | --- |
-| Discovery or introduction | Help the reader recognise relevance; use only the persuasion the project calls for. |
-| Instructions | Make the sequence and requirements clear. |
-| Errors or interrupted work | Reduce emotional intensity; explain the issue and recovery. |
-| Confirmation | State the verified outcome and next step. |
-| Learning feedback | Identify what worked and what to try next; distinguish completion from demonstrated understanding. |
-| Time-sensitive notices | Name the real deadline, consequence and action. |
-
-These are starting considerations, not mandatory tone presets. Preserve project identity while adapting to context.
+- [Voice guidance](voice/best-practices.md): establish product identity and distinguish voice, tone and writing mechanics.
+- [Tone guidance](tone/best-practices.md): choose a profile, apply tone qualities and adapt to the situation.
 
 ## Evaluate the result
 
@@ -149,7 +105,7 @@ These are starting considerations, not mandatory tone presets. Preserve project 
 
 ## Sources and coverage
 
-Reviewed 2026-10-19 against [content-design-lms](https://github.com/Pythonidaer/content-design-lms), its course and source manifest. The pinned snapshot is recorded in [design sources](../sources.md).
+Reviewed 2026-10-19 against [content-design-lms](https://github.com/Pythonidaer/content-design-lms), its course and source manifest. The pinned snapshot is recorded in [design sources](../design/sources.md).
 
 The review covers all 26 lesson decks: user needs; scope and formats; drafting; organisation; structure; language; titles; summaries; links; accessibility; translation; URLs; maintenance; retirement; change communication; change notes; style guides; evaluation; voice/tone; tone dimensions; GOV.UK tone; tone testing; the tone reference; orientation; capstone; and source scope.
 

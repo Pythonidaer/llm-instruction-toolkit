@@ -39,7 +39,7 @@ Mailchimp's supplied guidance permits occasional, deliberate emoji. This toolkit
 
 | Subject | Rule | Example |
 | --- | --- | --- |
-| Ordinary numbers | Spell out a number at the start of a sentence; otherwise use numerals, including ordinals. Recast awkward openings if needed. | “Eight people joined, and 12 return tomorrow.”; “3rd place” |
+| Ordinary numbers | Prefer numerals, including at the start of a sentence and for ordinals. Follow [Google’s numeral guidance](google-writing-goals-principles.md#use-numerals); use words when needed to distinguish mixed numeric meanings. | “8 people joined, and 12 return tomorrow.”; “3rd place” |
 | Established expressions | Preserve conventional spelled-out forms. | first impression; third-party integration; all-in-one |
 | Thousands | Use commas in numbers with more than 3 digits. | 999; 1,000; 150,000 |
 | Large amounts | Write the full number unless space is constrained; use compact forms consistently when necessary. | 150,000; 150k in a compact chart |
