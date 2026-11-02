@@ -6,6 +6,23 @@ You do not need to use or know Mailchimp to apply these instructions. Mailchimp 
 
 Read alongside [visual styling](visual-styling.md) and [information architecture](layout-and-information-architecture.md). Work from audience and task toward wording and conventions. Use the sections relevant to the current task; do not add website copy merely to demonstrate a rule.
 
+## Required first response: audience and purpose
+
+When a new session is asked to read or apply these rules for creating or substantially rewriting a website, return to the user before drafting content, designing the interface or implementing the site.
+
+1. Read the supplied context and reuse answers already given. Do not make the user repeat available information.
+2. Ask the following unanswered questions in one short message, with no more than three questions:
+   - Who is this website for? Include the creator when they will use it, and identify any secondary audiences.
+   - What should each audience be able to accomplish, and what is the creator's purpose for building the site?
+   - When audience needs compete, which takes priority? Priorities may differ by page.
+3. **End the response after asking. Wait for the user's reply. Do not silently assume answers, treat silence as agreement, or start drafting, designing or implementing while waiting.** Reading the repository to understand the request is allowed.
+4. If all answers are already available, summarize the audience, purpose and priorities briefly and ask the user to confirm that starting brief. Wait for their reply before proceeding. Do not repeat this checkpoint within the same project once the user has confirmed it, unless the scope or audience materially changes.
+5. After the reply, summarize the agreed starting brief, label assumptions about other people's needs, and proceed. A provisional answer or “I'm not sure; let's explore” is enough to begin a reversible exploration; certainty and formal user research are not prerequisites. Revisit the brief as prototypes and feedback sharpen the idea.
+
+The creator is a legitimate audience for a personal learning tool. Distinguish the creator's reason for building from each visitor's reason for using the site. Support multiple audiences deliberately; do not automatically create separate navigation categories for each.
+
+This checkpoint applies to new website work or a substantial content rethink. Do not restart discovery for a narrow maintenance task, a factual explanation, or an edit to these rules themselves. A later explicit user instruction to skip discovery takes precedence.
+
 ---
 
 <br>
@@ -91,7 +108,7 @@ For a new project: establish the brief, choose goals and principles, establish v
 
 ### Reset: Avoid these content and tone habits
 
-- Do not write before identifying the audience and useful outcome. A stakeholder request for more content is not proof of a user need.
+- Before new website work, follow the [required audience-and-purpose checkpoint](#required-first-response-audience-and-purpose): ask the unanswered questions and wait for the user's reply before drafting or building. Start with a provisional brief and refine it as evidence develops. A stakeholder request for more content alone is not proof of a visitor need; the creator can also be a legitimate user.
 - Do not make every project sound like GOV.UK, a promotional landing page or a friendly chatbot. Choose a project profile across all four tone dimensions.
 - Do not keep one emotional tone for introductions, errors, confirmations and sensitive situations. Preserve identity while adapting to the task.
 - Do not use fabricated urgency, unverifiable reassurance, automatic praise, patronising instructions or jokes that blame the reader.
