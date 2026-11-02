@@ -8,6 +8,16 @@ This is primarily Johnny's personal toolkit for controlling LLM decisions in web
 
 Understanding takes priority over brevity. Use plain, descriptive headings and make individual decisions easy to identify. Keep instructions concise where meaning survives; add explanations or examples when they resolve a specific ambiguity. Google and Mailchimp are sources of writing guidance, not services the user must use or brand personalities to adopt.
 
+## TODO: review and consolidate
+
+These are future review tasks, not instructions to perform the cleanup automatically. Johnny is learning and reviewing the material incrementally. Adding these items does not approve every existing rule or change previously agreed instructions.
+
+- [ ] Review [best-practices.md](best-practices.md). Identify which guidance to keep, revise, clarify or mark provisional.
+- [ ] Review [project-questions.md](project-questions.md). Check the questions and brief template against the desired collaborative process.
+- [ ] Consolidate [content-design.md](../design/ai-design-reset/content-design.md) toward **one clear instruction per decision**. Distinguish overlapping concepts from duplicated instructions; combine equivalent rules, preserve unique qualifications and context, and keep source attribution and useful explanations nearby. Review examples case by case rather than adding or removing them mechanically.
+
+Some repetition comes from shared concepts: clarity, useful context and factual accuracy support several writing layers. Some comes from compiling several sources that express the same decision. During review, retain meaningful differences in scope and exceptions; use cross-references when one instruction supports multiple layers.
+
 ## How to interpret instructions and notes
 
 - **Active instruction:** an explicit, adopted direction with a defined scope. Apply it when relevant.
