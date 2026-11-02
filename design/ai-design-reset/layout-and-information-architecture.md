@@ -12,7 +12,7 @@ Scope: what information belongs together, its order, and how people find it. Rea
 - Define mobile reading order, content widths, gutters, and responsive changes. Preserve useful context when dividing long content into sections or nested subsections.
 - Avoid repeating pitches, metadata, counts, and calls to action. Give the footer a useful role appropriate to the site; do not append a stock multi-column footer or closing promotional section.
 - Select interaction semantics deliberately. A nonmodal dropdown allows normal page focus and scrolling; a modal drawer or dialog needs containment, dismissal, and focus return. Do not mix their behavior.
-- Use the [current navigation default](../patterns/navigation/frosted-header-dropdown.md) where no project choice exists. Preserve an established alternative during unrelated changes.
+- Choose navigation for the project's tasks and context. Use the [navigation reference](../patterns/navigation/frosted-header-dropdown.md) only when requested or explicitly adopted. Preserve established navigation during unrelated changes.
 - Separate essential information from optional depth without hiding material needed to understand the main point.
 - Keep one clear owner for component layout and state. Replace conflicting implementations rather than accumulating overrides.
 

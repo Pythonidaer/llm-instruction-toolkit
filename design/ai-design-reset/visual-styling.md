@@ -12,7 +12,7 @@ Scope: appearance. Read alongside [content design](content-design.md) and [layou
 - Never use emojis in website UI or interface copy. Do not substitute Unicode arrows, stars, crosses, or similar text characters for UI icons. Use a deliberately selected SVG family or clear text.
 - Centralize approved icons and action mappings. Use consistent geometry and purposeful placement; do not add an icon to every action. Preserve native artwork in catalogs rather than restyling it to match interface controls.
 - Make text, controls, and state indicators readable. Preserve visible focus, usable targets, and non-color cues. Reserve outline and offset clearance so focus is neither clipped nor overlapping neighboring content.
-- Use blur, shadow, and motion for a defined purpose. The [navigation default](../patterns/navigation/frosted-header-dropdown.md) has a frosted header and opaque menu; that is not permission for glass surfaces throughout the page.
+- Use blur, shadow, and motion for a defined purpose. The optional [navigation reference](../patterns/navigation/frosted-header-dropdown.md) has a frosted header and opaque menu; that is not permission for glass surfaces throughout the page.
 
 ## Check
 

@@ -1,6 +1,6 @@
 # Frosted sticky header with opaque dropdown
 
-Status: current default for new website work without an established alternative. Replaceable through [design guidance](../../README.md). Existing branding and explicit project instructions take precedence.
+Status: optional reference pattern. Load only when requested or explicitly adopted by the user, not automatically for new websites. See [design guidance](../../README.md). Existing branding and explicit project instructions take precedence.
 
 ## Appearance and reference values
 
