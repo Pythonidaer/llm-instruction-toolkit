@@ -202,8 +202,8 @@ Use the [AI content reset](content-design.md) to catch automatic writing habits.
 
 ### Start with a useful outcome
 
-- Describe what a person needs to decide, understand or do. Publishing another page is not itself a user outcome.
-- Use research, support questions, search behaviour and observation. Label untested assumptions.
+- Identify what the intended person should be able to decide, understand or do, and how the proposed page supports that purpose. Include the creator's learning or experimentation goals where relevant.
+- Use available evidence, including the creator's stated needs and experience. Distinguish confirmed information from assumptions in the discussion or project notes, rather than automatically adding assumption labels to the published interface. Formal research is not a prerequisite for a personal project: start provisionally when evidence is limited, and revisit assumptions through feedback.
 - Check existing content before adding more. Improve, combine, relocate or retire material where appropriate.
 - Select text, a form, checklist, table, diagram, audio or another format because it helps the task.
 - Coordinate content placement and labels with information architecture. Navigation alone is not the content plan.
