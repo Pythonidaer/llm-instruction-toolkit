@@ -5,7 +5,7 @@ Build clear, usable websites with deliberate identity. Interrupt automatic desig
 ## Read and apply
 
 1. Confirm the intended repository, current source, audience, primary task, and existing project instructions.
-2. Apply the three [AI design reset](ai-design-reset/visual-styling.md) files together: appearance, content, and structure.
+2. Apply the three [AI design reset](ai-design-reset/visual-styling.md) files together: appearance, content, and structure. Follow the [CSS baseline instructions](ai-design-reset/visual-styling.md#css-baseline) to integrate [reset.css](ai-design-reset/reset.css) when applicable.
 3. For content work, read [Writing decisions](../writing-decisions/README.md) and the combined content-design instructions. Consult already-incorporated source files separately only for clarification or revision.
 4. Use [frosted header with dropdown](patterns/navigation/frosted-header-dropdown.md) only when requested or explicitly adopted by the user.
 5. Select [content reveals](patterns/motion/staggered-content-reveal.md) or the [interactive roadmap](patterns/learning/interactive-roadmap.md) only when requested or explicitly adopted by the user.
@@ -18,6 +18,7 @@ Preserve existing approved project design during unrelated work. Navigation, mot
 
 | File | Role |
 | --- | --- |
+| [CSS reset](ai-design-reset/reset.css) | CSS baseline loaded before project styles; reconcile with an existing reset first |
 | [Visual styling](ai-design-reset/visual-styling.md) | Fonts, color, surfaces, decoration, and icon treatment |
 | [Content design reset](ai-design-reset/content-design.md) | Wording pitfalls, repetition, misleading feedback and tone defaults |
 | [Content and tone guidance](../writing-decisions/best-practices.md) | User needs, writing, tone, evaluation and maintenance |

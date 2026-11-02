@@ -2,6 +2,21 @@
 
 Scope: appearance. Read alongside [content design](content-design.md) and [layout](layout-and-information-architecture.md).
 
+## CSS baseline
+
+Use [reset.css](reset.css) as the supplied CSS baseline for new websites. Copy it into the consuming project's stylesheet setup and load it once, before theme and component styles. Keeping it in this toolkit does not load it in another website.
+
+Inspect existing global CSS and framework resets first. If the project already uses a reset or normalization layer, compare its coverage and reconcile differences rather than blindly stacking resets. Preserve established behavior during narrow maintenance tasks.
+
+This file also deliberately removes link underlines, list markers, button surfaces and default spacing; those are styling choices as well as normalization. After applying it:
+
+- Give links a recognizable treatment, including underlines where needed to distinguish them in prose.
+- Provide visible button styling, usable targets and appropriate disabled-state presentation; preserve visible keyboard focus.
+- Restore list markers or numbering where they communicate meaning. Verify semantic lists remain exposed to assistive technology.
+- Define heading, paragraph and fieldset spacing and grouping deliberately.
+- Check media and inline SVG usage after the global block-display rule.
+- Verify responsive layouts, keyboard interaction and real content. A reset does not guarantee identical rendering across browsers or accessibility.
+
 ## Rules
 
 - Choose typography, color roles, spacing, widths, and component treatments for the audience, subject, and existing identity. A distinctive font alone does not establish identity.
