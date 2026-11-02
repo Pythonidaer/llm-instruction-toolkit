@@ -1,8 +1,14 @@
 # Content design decisions
 
-Combined working guidance from every Markdown file in [writing decisions](../../writing-decisions/README.md), plus the existing AI content reset. This file includes the decision rules, qualifications, examples, brief template and review guidance; the source files remain unchanged.
+General AI writing instructions adapted from every Markdown file in [writing decisions](../../writing-decisions/README.md), plus the existing AI content reset. This file includes the decision rules, qualifications, examples, brief template and review guidance; the source files remain unchanged.
+
+You do not need to use or know Mailchimp to apply these instructions. Mailchimp and Google identify where guidance came from; they are not products you must use or brand personalities you must adopt. Apply the general rules to the actual audience and task. Credit sources separately from the decisions themselves.
 
 Read alongside [visual styling](visual-styling.md) and [information architecture](layout-and-information-architecture.md). Work from audience and task toward wording and conventions. Use the sections relevant to the current task; do not add website copy merely to demonstrate a rule.
+
+---
+
+<br>
 
 ## Start here
 
@@ -20,16 +26,24 @@ Read alongside [visual styling](visual-styling.md) and [information architecture
 
 For a new project: establish the brief, choose goals and principles, establish voice and tone, draft in the interface, check grammar/mechanics, then test and maintain. Revisit earlier decisions when evidence changes. Overlapping rules apply once; a source heading is not an exclusive category.
 
+---
+
+<br>
+
 ## Resolve choices before applying them
+
+<br>
 
 ### Priority and scope
 
 - Reuse explicit user instructions and approved project conventions. Preserve factual accuracy, accessibility, required values and identifiers.
 - Combine compatible guidance. Do not ask the user to choose an entire publisher when only one convention differs.
-- Mailchimp-specific voice, US conventions and brand facts remain scoped profiles. The inclusion of a rule here does not adopt Mailchimp's identity for every project. Google's punctuation guidance is for interface text, not a ban on punctuation throughout articles.
+- Use the writing advice as general prompting guidance. Choose tone and regional conventions for the actual project. Publisher names are attribution, not profiles to adopt. Google's punctuation guidance is for interface text, not a ban on punctuation throughout articles.
 - The existing no-emoji preference and Google's numeral preference at sentence openings are already settled. Do not ask about them again unless the user requests reconsideration.
 - Ask only when an unresolved choice affects the current work. Explain the concrete difference with two short examples, name the affected content type, and record the answer in the consuming project's brief. Ask no more than three related questions at once; continue independent work while the affected choice is pending.
 - For an actual unresolved contradiction, ask: **“For [specific content type], should I follow Google's [specific convention and example] or Mailchimp's [specific convention and example]?”** Do not invent a source position to fill this template. If neither file specifies the alternative, describe it as a project choice.
+
+<br>
 
 ### Decisions to check at the point of use
 
@@ -37,7 +51,9 @@ For a new project: establish the brief, choose goals and principles, establish v
 | --- | --- | --- |
 | Fractions in prose | Google gives a general digit preference without an explicit fraction rule; Mailchimp explicitly spells out prose fractions. This is a scope question, not a verified direct contradiction. | “For prose fractions, should I extend the Google numeral preference to `2/3`, or use Mailchimp's `two-thirds` convention?” |
 | A label that also introduces a list | Google omits colons after labels; Mailchimp uses colons to introduce lists. Usually the distinction between a UI label and a sentence resolves this. | “For this label above a list, should I use Google's label treatment (`Options`) or Mailchimp's list-introduction treatment (`Options:`)?” |
-| Brevity and personality | Google's concise interface guidance and Mailchimp's friendly, appropriate writing can coexist. Neither requires unnecessary words. | If the brief does not resolve the desired delivery: “For these messages, would you prefer a brief Google-style interface treatment or the warmer Mailchimp-inspired profile? Both will preserve the same facts and action.” This is an authored style comparison, not a source contradiction. |
+| Brevity and personality | Google's concise interface guidance and Mailchimp's friendly, appropriate writing can coexist. Neither requires unnecessary words. | If the brief does not resolve the desired delivery: “For these messages, would you prefer a brief Google-style interface treatment or warmer, conversational wording informed by Mailchimp's guidance? Both will preserve the same facts and action.” This is an authored style comparison, not a source contradiction. |
+
+<br>
 
 ### Compatible rules: apply together
 
@@ -47,7 +63,13 @@ For a new project: establish the brief, choose goals and principles, establish v
 - Present tense for routine behavior does not override accurate past events, historical chronology or exact quotations.
 - Do not force a choice between clarity, truth, accessibility and personality. Adapt expression while preserving meaning and consequences.
 
+---
+
+<br>
+
 ## Content decisions
+
+<br>
 
 ### Reset: Rules
 
@@ -65,6 +87,8 @@ For a new project: establish the brief, choose goals and principles, establish v
 - Do not default to count-first editorial fragments such as “Eight websites, examined…” when the count and framing add no useful information. Use counts when they serve a task; delete redundant introductions rather than replacing them with another slogan.
 - Add personality after meaning is clear. Deliberate expressive writing remains available when it serves the subject.
 
+<br>
+
 ### Reset: Avoid these content and tone habits
 
 - Do not write before identifying the audience and useful outcome. A stakeholder request for more content is not proof of a user need.
@@ -77,6 +101,8 @@ For a new project: establish the brief, choose goals and principles, establish v
 - Do not hide essential information in a disclosure or use vague labels such as “Read more” when a specific destination matters.
 - Do not copy facts from an earlier interface state, invent a capability or contradict the status the product actually reports.
 - Do not treat tone preference, readability scores, clicks or traffic as proof that readers understand the content.
+
+<br>
 
 ### Navigation: The layers
 
@@ -95,6 +121,8 @@ Punctuation is usually included under mechanics. Grammar concerns sentence struc
 
 **These layers overlap.** A publisher's document title does not guarantee that every rule belongs to one category. Google's principles include numeral and punctuation conventions; Mailchimp's mechanics guide also contains broad writing advice. These files retain that overlap for now.
 
+<br>
+
 ### Navigation: A practical order for projects
 
 #### 1. Establish the reader and task
@@ -112,7 +140,7 @@ Use these as decision criteria. Do not add text merely to demonstrate every goal
 #### 3. Establish voice and adapt tone
 Use [Voice](../../writing-decisions/voice-and-rules/voice/voice.md) for stable identity and [Tone](../../writing-decisions/voice-and-rules/tone/tone.md) for contextual delivery.
 
-[Mailchimp voice and tone](../../writing-decisions/voice-and-rules/mailchimp-tone-voice.md) remains a combined reference pending further separation. Adopt its brand-specific qualities only when they fit the project.
+[Mailchimp voice and tone](../../writing-decisions/voice-and-rules/mailchimp-tone-voice.md) remains a combined reference pending further separation. Use its general lessons about clarity, warmth and context; choose the actual project's voice independently.
 
 #### 4. Draft in the actual interface
 Write headings, labels, instructions, errors and recovery options around the real task. Check what each text element contributes. Keep facts and actions unchanged when comparing tone variants.
@@ -124,6 +152,8 @@ The sentence-opening number rule already follows Google's numeral preference. Pr
 
 #### 6. Test and revise
 Can someone understand what happened and complete the task without coaching? Review wording and layout together. A correctly punctuated sentence can still be unnecessary or unhelpful.
+
+<br>
 
 ### Navigation: Quick navigation while working
 
@@ -138,6 +168,8 @@ Can someone understand what happened and complete the task without coaching? Rev
 
 Select only the references needed for the current task. These files require explicit loading or integration into project instructions; storing them here does not automatically apply them elsewhere.
 
+<br>
+
 ### Apply the guidance
 
 1. Identify the audience, task and evidence.
@@ -149,6 +181,8 @@ Select only the references needed for the current task. These files require expl
 
 Use the [AI content reset](content-design.md) to catch automatic writing habits. Record the chosen tone in the consuming project; do not turn one project's preferences into global toolkit rules.
 
+<br>
+
 ### Start with a useful outcome
 
 - Describe what a person needs to decide, understand or do. Publishing another page is not itself a user outcome.
@@ -159,6 +193,8 @@ Use the [AI content reset](content-design.md) to catch automatic writing habits.
 - Keep required facts, conditions, costs, deadlines, consequences and alternatives near the action they affect.
 
 Content design includes selection, organisation, format, wording and maintenance. It can begin in plain copy, but wording and interface should be revised together.
+
+<br>
 
 ### Make content findable and understandable
 
@@ -176,6 +212,8 @@ Content design includes selection, organisation, format, wording and maintenance
 
 Shorten without changing meaning: permission, obligation and possibility are different. Keep useful explanations; plain language also serves expert readers.
 
+<br>
+
 ### Write for actual interface states
 
 - Name the real action on each control. Distinguish opening, saving, submitting, copying and continuing.
@@ -187,6 +225,8 @@ Shorten without changing meaning: permission, obligation and possibility are dif
 - Keep material requirements visible; optional detail may use disclosure. Do not hide essential recovery instructions just to shorten a screen.
 
 A shared disclaimer on every resource slide creates reading work. Prefer one clear course/source explanation, while retaining specific warnings at the links or actions that need them.
+
+<br>
 
 ### Keep authoring context out of public copy
 
@@ -202,6 +242,8 @@ Before publishing, ask: “Who does ‘you’ refer to here? Would a first-time 
 
 For the example above, remove the sentence when “Website typography studies” and the gallery already establish the subject. If a summary is genuinely needed, describe the visitor’s task or the contents directly, without mentioning the assistant’s collaboration with the owner.
 
+<br>
+
 ### Design for access and different contexts
 
 - Use semantic headings, descriptive links and meaningful control labels, including accessible names for icon-only controls.
@@ -212,11 +254,15 @@ For the example above, remove the sentence when “Website typography studies”
 - Do not treat machine translation or an automated accessibility/readability score as proof of understanding.
 - For learning content, connect the explanation, example, practice and feedback to a useful learning outcome. A short slide is a delivery choice, not proof that learning occurred.
 
-### Google adaptation: Content structure
+<br>
+
+### Content structure
 
 Lead with goals, disclose details progressively, keep terminology consistent, and refer to controls by label.
 
-### Google adaptation: Additional project rules for AI-generated websites
+<br>
+
+### Additional project rules for AI-generated websites
 
 These are authored project instructions addressing the requested writing-decisions concerns, separate from the Google adaptation above.
 
@@ -236,9 +282,15 @@ Identify the intended visitor, their main task, and what they need to know at ea
 #### Review before delivery
 For every text element, identify the visitor question it answers or action it supports. Revise, relocate, or remove text without a useful purpose. Review silently; report material uncertainties separately to the owner.
 
+---
+
+<br>
+
 ## Goals and principles
 
-### Google adaptation: Principles
+<br>
+
+### Principles
 
 #### Be concise
 Use brief, scannable passages with few concepts.
@@ -282,7 +334,9 @@ Punctuate for clarity; maintain consistency throughout the flow.
 ##### Colons
 Omit colons after labels.
 
-### Mailchimp adaptation: Writing goals
+<br>
+
+### Writing goals
 
 #### Empower
 
@@ -318,7 +372,9 @@ Omit colons after labels.
 - Verify factual claims and distinguish confirmed behaviour from assumptions.
 - Preserve limitations and consequences that affect the reader's decision.
 
-### Mailchimp adaptation: Content principles
+<br>
+
+### Content principles
 
 | Principle | Writing rules | Review question |
 | --- | --- | --- |
@@ -329,7 +385,9 @@ Omit colons after labels.
 
 Friendliness does not require jokes, cheerfulness or familiarity in every message. In a failure message, warmth can mean calm wording and a practical recovery action. Flexibility with writing rules must preserve meaning, accuracy and accessibility.
 
-### Mailchimp adaptation: Apply the goals and principles
+<br>
+
+### Apply the goals and principles
 
 1. Name the reader, their immediate task and the purpose of the content.
 2. Identify the facts, conditions and choices they need; check the source of truth.
@@ -341,7 +399,9 @@ Friendliness does not require jokes, cheerfulness or familiarity in every messag
 
 A piece of content may serve several goals at once. Use them as review criteria rather than adding a separate paragraph for every goal.
 
-### Mailchimp adaptation: Original example
+<br>
+
+### Original example
 
 For a failed upload, an appropriate message might be:
 
@@ -349,15 +409,23 @@ For a failed upload, an appropriate message might be:
 
 Use this wording only when the product has confirmed the cause and the limit is accurate. It explains the issue, respects the reader's time and gives a supported next step without blame or drama. Link to file-reduction guidance if readers need more help.
 
+---
+
+<br>
+
 ## Voice
 
-### Mailchimp profile: Separate voice from tone
+<br>
+
+### Separate voice from tone
 
 Voice is the consistent character of the organisation or product. Tone changes with the reader's task, situation and likely state of mind.
 
 Keep the voice knowledgeable, compassionate, clear and approachable across channels. Adjust formality, humour and energy to suit the moment. Use evidence from the situation; do not claim to know how someone feels.
 
-### Mailchimp profile: Voice rules
+<br>
+
+### Voice rules
 
 1. **Speak plainly.** Put useful information first. Use familiar words and direct verbs. Remove hype, inflated claims, upsells disguised as help, decorative metaphors and emotional pressure.
 2. **Be warm and credible.** Write like an experienced, considerate partner. Take the reader's goals seriously, including small or early-stage projects. Use natural conversation without manufactured intimacy or invented shared experience.
@@ -367,15 +435,23 @@ Keep the voice knowledgeable, compassionate, clear and approachable across chann
 6. **Use restrained, inclusive humour.** Optional humour may be dry, subtle and slightly offbeat. The reader should understand the joke without insider knowledge. Never mock the reader, exclude a group, sound superior or make distress the punchline.
 7. **Let clarity decide.** Remove personality that slows comprehension, hides an action or weakens trust. A straightforward sentence is a complete choice.
 
+<br>
+
 ### Establish a voice
 
 Voice is the relatively stable identity of the organisation or product. Tone adapts to the purpose, reader and situation. Writing style also includes mechanics such as spelling, punctuation and terminology. Keep these decisions distinct.
 
 Use [Project questions](../../writing-decisions/project-questions.md) to establish the project brief. For tone profiles, qualities and situational adjustments, use [Tone guidance](../../writing-decisions/voice-and-rules/tone/tone.md).
 
+---
+
+<br>
+
 ## Tone
 
-### Mailchimp profile: Adapt tone to context
+<br>
+
+### Adapt tone to context
 
 Start with an informal, respectful, conversational tone. Change it according to the reader's needs, including within the same journey.
 
@@ -392,7 +468,9 @@ This table operationalises the supplied principles; it is not a quoted Mailchimp
 
 If humour does not come naturally, leave it out. When appropriateness is uncertain, use straightforward wording. Informality never excuses vague instructions, slang or careless claims.
 
-### Mailchimp profile: Original examples
+<br>
+
+### Original examples
 
 These examples illustrate the adaptation; they are not Mailchimp copy. Use status claims only when confirmed by the product.
 
@@ -405,6 +483,8 @@ These examples illustrate the adaptation; they are not Mailchimp copy. Use statu
 | “You're a marketing genius!” | “Your campaign is scheduled for Tuesday at 10 am.” | Confirm the real outcome without exaggerated praise. |
 
 Adapt examples to actual product behaviour. If retrying is unsafe or unavailable, provide the supported recovery route instead.
+
+<br>
 
 ### Establish a tone profile
 
@@ -420,6 +500,8 @@ Choose one initial profile across all four [NN/g dimensions](https://www.nngroup
 These are independent spectrums, not four exclusive tones or a quality ranking. Refine the profile with a few target qualities and qualities to avoid. Use [Project questions](../../writing-decisions/project-questions.md) to make the choices concrete.
 
 Keep facts, conditions and actions unchanged when comparing tone variants. A tone preference never justifies misleading or unusable content.
+
+<br>
 
 ### Use tone qualities deliberately
 
@@ -440,6 +522,8 @@ These overlapping qualities are an authored teaching aid from the LMS, not an ex
 
 Respectfulness remains a requirement toward people even when a brand is irreverent about its subject. Do not make every message enthusiastic, humorous or emotionally flat by default.
 
+<br>
+
 ### Adapt tone to the situation
 
 | Situation | Consider |
@@ -453,33 +537,47 @@ Respectfulness remains a requirement toward people even when a brand is irrevere
 
 These are starting considerations, not mandatory tone presets. Preserve project identity while adapting to context.
 
+---
+
+<br>
+
 ## Grammar
 
-### Mailchimp profile: Abbreviations and acronyms
+<br>
+
+### Abbreviations and acronyms
 
 - Spell out an unfamiliar abbreviation on first mention, then use the short form.
 - Include the abbreviation in parentheses when its relationship to the full term is unclear. For clarity, introducing both together is also useful: “Coordinated Universal Time (UTC).”
 - Use familiar terms such as API or HTML without expansion when appropriate for the actual audience. Familiarity is audience-dependent.
 
-### Mailchimp profile: Active voice
+<br>
+
+### Active voice
 
 - Prefer active voice so readers can identify the actor and action: “Riley updated the account.”
 - Use passive voice deliberately when the action or recipient matters more than the actor, or the actor is unknown.
 - Words such as “was” and “by” are review clues, not proof of passive voice. Do not mechanically delete them or invent responsibility.
 
-### Mailchimp profile: Slang and jargon
+<br>
+
+### Slang and jargon
 
 - Write in plain English.
 - Briefly explain a necessary technical term where it appears. A definition should make the concept useful, not replace jargon with more jargon.
 - Match explanations to audience knowledge without assuming every reader is an expert.
 
-### Mailchimp profile: Write positively
+<br>
+
+### Write positively
 
 State the useful action: “Join the queue to collect your ticket.”
 
 Review wording containing can't, don't or similar negatives for an opportunity to explain what the reader can do. Keep explicit negatives when needed to communicate a failure, restriction, warning or consequence accurately. Positive wording must not disguise a problem.
 
-### Mailchimp profile: Sentence-level rules
+<br>
+
+### Sentence-level rules
 
 - Prefer active voice so the reader can identify who does what: “We saved your changes.” Avoid passive constructions when they hide responsibility. Never invent an actor merely to make a sentence active.
 - Use plain English. Replace slang, unexplained acronyms and business jargon with terms the audience understands.
@@ -488,9 +586,15 @@ Review wording containing can't, don't or similar negatives for an opportunity t
 - Use warmth through clear, considerate wording. Do not add excessive exclamation marks, forced jokes or familiarity.
 - Write labels and calls to action literally. Let the reader predict the result before acting.
 
+---
+
+<br>
+
 ## Mechanics
 
-### Mailchimp profile: Basics
+<br>
+
+### Basics
 
 1. Write for both careful readers and people who skim. Group related ideas and use descriptive headings and subheadings.
 2. Lead with the main point at sentence, paragraph, section and page level.
@@ -498,18 +602,24 @@ Review wording containing can't, don't or similar negatives for an opportunity t
 4. Be specific. Replace vague claims and filler with useful facts or actions.
 5. Apply the same terminology, copy patterns and conventions throughout the content.
 
-### Mailchimp profile: Capitalization and contractions
+<br>
+
+### Capitalization and contractions
 
 - Sentence case capitalizes the first word and proper nouns. Title case capitalizes major words, generally excluding articles, prepositions and conjunctions. Choose the project's convention for each content type consistently; the supplied excerpt describes both without assigning them universally.
 - Keep ordinary uses of website, internet, online and email lowercase.
 - Present email addresses and website domains in lowercase where accurate. Preserve case-sensitive URL paths, query values and exact identifiers.
 - Use natural contractions for an informal, friendly tone. Avoid any contraction that makes a requirement or meaning unclear.
 
-### Mailchimp profile: Emoji
+<br>
+
+### Emoji
 
 Mailchimp's supplied guidance permits occasional, deliberate emoji. This toolkit's existing no-emoji preference takes precedence: do not introduce emoji into project content or use text characters as substitute UI icons.
 
-### Mailchimp profile: Numbers
+<br>
+
+### Numbers
 
 | Subject | Rule | Example |
 | --- | --- | --- |
@@ -528,7 +638,9 @@ Mailchimp's supplied guidance permits occasional, deliberate emoji. This toolkit
 
 These are prose conventions. Preserve exact values, code, identifiers, measurements and machine-readable formats when conversion would damage meaning.
 
-### Mailchimp profile: Dates, time and decades
+<br>
+
+### Dates, time and decades
 
 - Generally spell out the weekday and month: “Saturday, January 24.” Abbreviate only where space requires it: “Sat., Jan. 24.” Include a year when needed to avoid ambiguity.
 - Use numerals followed by a space and lowercase am or pm: “7 am,” “7:30 pm.” Omit zero minutes on the hour.
@@ -541,7 +653,9 @@ These are prose conventions. Preserve exact values, code, identifiers, measureme
 
 Source clarification: the supplied time-span instruction says hyphen, but its example uses an en dash. This profile follows the written instruction and the general numeric-range rule consistently.
 
-### Mailchimp profile: People, places and things
+<br>
+
+### People, places and things
 
 #### File extensions and filenames
 
@@ -568,7 +682,7 @@ Source clarification: the supplied excerpt requests lowercase filenames but incl
 #### Teams, departments and job titles
 
 - Capitalize department and team names, but not the generic words “team” and “department”: “Marketing team,” “Support department.”
-- Capitalize an individual title when referring to a specific role under this house style: “Marketing Manager.” Lowercase generic references: “the managers.”
+- Capitalize an individual title when referring to a specific role under the selected capitalization convention: “Marketing Manager.” Lowercase generic references: “the managers.”
 - Avoid calling people ninjas, rockstars or wizards unless the description is literal.
 
 #### Schools
@@ -593,37 +707,41 @@ Atlanta, Baltimore, Boston, Chicago, Cincinnati, Cleveland, Dallas, Denver, Detr
 - Keep the actual link destination complete and accurate. Do not remove meaningful subdomains or alter case-sensitive paths.
 - Explicit user preferences for visible full URLs take precedence.
 
-### Mailchimp profile: Writing about Mailchimp
+<br>
 
-Apply these conventions only to content about Mailchimp; do not transfer its identity to another product.
+### Source-specific brand examples
 
-- Use “Mailchimp,” with capital M and lowercase c.
-- The supplied excerpt names “The Rocket Science Group, LLC” as the legal entity and reserves it for legal documents and contracts. Verify current legal details before using them in such documents.
-- Use “we” when writing in Mailchimp's own organisational voice. Use the company name or “it” when writing about it from outside.
-- Preserve branded capitalization, such as Mailchimp Presents, and official plan names.
-- The supplied plan examples are Premium, Standard, Essentials and Free. They are source examples, not a current product catalogue.
-- Keep descriptive feature names lowercase unless they are official branded terms: templates, email, landing pages, Mailchimp's mobile app.
-- Verify current product naming before publication when accuracy depends on it.
+Mailchimp's legal entity, plan names, company voice and product capitalization are examples from the source material, not general AI writing decisions. They do not apply to your projects unless you are actually writing about that company. For any company, verify its current names and preserve official spelling; do not borrow its identity or claims.
 
-### Mailchimp profile: Writing about other companies
+<br>
+
+### Writing about other companies
 
 - Follow each company's official spelling and capitalization for itself and its products, such as iPad, YouTube and Yahoo!.
-- Use “it” for a company or product in this profile.
+- Use “it” for a company or product in this guide.
 - Verify names against an authoritative source when needed; preserve literal brand punctuation.
 
-### Mailchimp profile: Text formatting
+<br>
+
+### Text formatting
 
 - Italicize titles of long works, such as books, films and albums.
 - Use italics sparingly for emphasis.
-- In this profile, italicize references to in-app elements and button or navigation labels in instructions. Match the interface's exact wording.
+- For consistent formatting, italicize references to in-app elements and button or navigation labels in instructions. Match the interface's exact wording.
 - Do not underline text for decoration or combine italic, bold, capitals and underline for emphasis. Preserve normal visual affordances for actual links.
 - Left-align prose in left-to-right content; avoid centered or right-aligned body text.
 - This prose rule does not override language direction, numeric table alignment or an approved interface layout.
 - Keep one space between sentences.
 
+---
+
+<br>
+
 ## Punctuation
 
-### Mailchimp profile: Punctuation
+<br>
+
+### Punctuation
 
 #### Apostrophes
 
@@ -656,7 +774,7 @@ Apply these conventions only to content about Mailchimp; do not transfer its ide
 
 #### Periods and spacing
 
-- In this US-style profile, periods and commas go inside quotation marks.
+- Under US punctuation conventions, periods and commas go inside quotation marks.
 - Put a period outside parentheses when the parenthetical belongs to a larger sentence. Put it inside for a complete standalone parenthetical sentence.
 - Leave exactly one space between sentences.
 
@@ -679,7 +797,13 @@ Apply these conventions only to content about Mailchimp; do not transfer its ide
 - Use semicolons sparingly. Prefer simpler sentences; use an em dash only when the relationship warrants an aside.
 - Write “and” unless an ampersand is part of an official company or brand name.
 
+---
+
+<br>
+
 ## Project questions and brief
+
+<br>
 
 ### How to ask
 
@@ -688,7 +812,9 @@ Apply these conventions only to content about Mailchimp; do not transfer its ide
 - Offer short examples or two contrasting drafts when abstract labels are difficult to choose.
 - Start with one provisional profile, then adjust using context and reader feedback.
 - State assumptions if optional preferences remain unanswered. Do not invent missing facts, permissions or service guarantees.
-- Keep the selected profile in the consuming project's documentation; do not add every local preference to global rules.
+- Keep the selected project conventions in the consuming project's documentation; do not add every local preference to global rules.
+
+<br>
 
 ### Start with the project
 
@@ -699,6 +825,8 @@ Choose the most useful unanswered questions first:
 3. What should the experience feel like, and what should it avoid?
 
 Then establish what is already known: audience research, existing copy, the source of truth, brand guidance, terminology and scope. Ask what is uncertain rather than treating assumptions as evidence.
+
+<br>
 
 ### Choose an initial tone profile
 
@@ -714,6 +842,8 @@ Choose a position on each spectrum. These form one combined profile; the user do
 Record the choices with concrete wording examples. Do not present the poles as good and bad scores. The framework comes from [NN/g](https://www.nngroup.com/articles/tone-of-voice-dimensions/); these intake questions are an authored application.
 
 If the user needs a starting suggestion, offer serious, conversational, respectful and mostly matter-of-fact wording as a provisional service-writing option. This is not a universal style or an approved project preference until adopted.
+
+<br>
 
 ### Refine the profile when useful
 
@@ -735,6 +865,8 @@ Target qualities can include reassuring, authoritative, instructional, conversat
 
 Examples of boundaries: precise without sounding superior; approachable without filler; encouraging without claiming mastery. Turn each chosen boundary into an example and a practical check.
 
+<br>
+
 ### Agree on contextual adjustments
 
 Ask only about contexts present in the project.
@@ -748,6 +880,8 @@ Ask only about contexts present in the project.
 
 Record these as exceptions to the baseline, with facts and actions preserved. A different project scope can justify a different baseline later.
 
+<br>
+
 ### Compare drafts instead of debating adjectives
 
 1. Draft a representative message in the provisional profile.
@@ -757,6 +891,8 @@ Record these as exceptions to the baseline, with facts and actions preserved. A 
 5. Record a provisional choice and test it in the interface.
 
 For an original low-stakes example, compare a brief saved-draft confirmation with a warmer version. Both may claim saving only when the application has confirmed it. For errors, include a real recovery action rather than adding personality to an unhelpful message.
+
+<br>
 
 ### Save a short project brief
 
@@ -794,15 +930,25 @@ What to test next:
 
 Not every field must be completed before a small reversible draft. Missing facts that determine correctness need a source or an explicitly marked placeholder.
 
+<br>
+
 ### Revisit deliberately
 
 Reconsider the profile when audience, medium, project scope, stakes or research changes. Update the relevant examples and brief rather than silently changing all copy. Keep a useful record of the decision and its reason; avoid duplicating obsolete profiles as simultaneous requirements.
 
+---
+
+<br>
+
 ## Evaluation and maintenance
+
+<br>
 
 ### Reset: Check
 
 Read headings and actions without the body copy: is the subject and next action understandable? Then remove sentences that could describe almost any unrelated product. Check that shortening has preserved necessary context and qualifications.
+
+<br>
 
 ### Evaluate the result
 
@@ -814,6 +960,8 @@ Read headings and actions without the body copy: is the subject and next action 
 - Use analytics to investigate questions, not as a substitute for research. Clicks, visits, reading time and scores alone do not establish success.
 - Record the change, reason and remaining uncertainty. Revise the brief when audience, scope or evidence changes.
 
+<br>
+
 ### Maintain content after publication
 
 - Give each important content item an owner, source of truth and review trigger.
@@ -824,17 +972,21 @@ Read headings and actions without the body copy: is the subject and next action 
 - Decide whether obsolete material should be replaced, archived, withdrawn or removed. Consider continuing needs, records and redirects.
 - Use house style as a lookup reference. Do not impose GOV.UK publishing rules, Mailchimp's personality or one project's tone on every website.
 
-### Mailchimp profile: Review checklist
+<br>
+
+### Review checklist
 
 1. Can a reader identify the main point by scanning the headings and opening sentences?
 2. Are names, terms and abbreviations accurate and consistent?
 3. Are numbers, dates, currencies and times unambiguous for the audience?
-4. Are punctuation, capitalization and formatting consistent with the selected profile?
+4. Are punctuation, capitalization and formatting consistent with the selected project conventions?
 5. Do links, filenames, quoted wording and interface labels preserve exact required values?
 6. Does the wording identify actions and responsibility without hiding failures or conditions?
 7. Have project-specific preferences and documented exceptions been preserved?
 
-### Mailchimp profile: Drafting and review
+<br>
+
+### Drafting and review
 
 1. Identify the audience, immediate task, required facts and available next action.
 2. Establish the likely context from evidence. Mark uncertain assumptions.
@@ -844,17 +996,27 @@ Read headings and actions without the body copy: is the subject and next action 
 6. Read the copy in its interface and confirm the status and recovery instructions are accurate.
 7. Test whether a reader understands what happened and what to do next.
 
+---
+
+<br>
+
 ## Source scope and coverage
+
+<br>
 
 ### README.md — scope
 
 Use this folder to decide what content belongs in a project, how it should sound, and how to write it consistently. Work from the reader's needs toward sentence-level details. Return to earlier decisions when testing exposes a problem.
+
+<br>
 
 ### best-practices.md — scope
 
 Use this file when planning, drafting or reviewing website, application, service or learning content. Start with [Project questions](../../writing-decisions/project-questions.md) to establish a project-specific brief.
 
 This is an original synthesis of the content-design LMS and its source map. It covers content decisions, not a required visual theme, audio voice, software stack or government identity. Existing user instructions and approved project decisions take precedence.
+
+<br>
 
 ### Sources and coverage
 
@@ -872,16 +1034,22 @@ Primary references:
 
 This is reusable guidance, not a full reproduction of those sources. The complete A to Z style guides remain lookup references. Adapt publishing conventions to the project.
 
+<br>
+
 ### google-writing-goals-principles.md — scope
 
 Source: [Material Design 2 — Writing](https://m2.material.io/design/communication/writing.html).
 Condensed adaptation; not an official Google instruction file. Apply to interface copy.
 
+<br>
+
 ### mailchimp-writing-goals-principles.md — scope
 
-Use this reference when planning, drafting or reviewing content for a project that adopts Mailchimp-inspired writing guidance. Apply it alongside [Content and tone guidance](../../writing-decisions/best-practices.md), [Mailchimp voice and tone](../../writing-decisions/voice-and-rules/mailchimp-tone-voice.md) and [Mailchimp grammar and mechanics](../../writing-decisions/grammar-and-mechanics/mailchimp-grammar-mechanics.md).
+Use these general writing goals when planning, drafting or reviewing content. Apply it alongside [Content and tone guidance](../../writing-decisions/best-practices.md), [Mailchimp voice and tone](../../writing-decisions/voice-and-rules/mailchimp-tone-voice.md) and [Mailchimp grammar and mechanics](../../writing-decisions/grammar-and-mechanics/mailchimp-grammar-mechanics.md).
 
 These rules adapt the user-supplied “Writing Goals and Principles” excerpt. Apply the principles to the actual product, audience and task; do not claim Mailchimp's identity or business context for another organisation. Explicit user instructions and approved project decisions take precedence.
+
+<br>
 
 ### Source and scope
 
@@ -889,11 +1057,15 @@ Based on the “Writing Goals and Principles” excerpt supplied by the user fro
 
 The actionable rules, review questions, workflow and example are toolkit applications of those goals and principles. This is an adaptation of the supplied material, not an independently checked account of the current live guide.
 
+<br>
+
 ### mailchimp-grammar-mechanics.md — scope
 
-Use this house-style profile alongside [Mailchimp voice and tone](../../writing-decisions/voice-and-rules/mailchimp-tone-voice.md) and [Content and tone guidance](../../writing-decisions/best-practices.md) when a project adopts it. Grammar and mechanics govern consistent writing conventions; voice and tone govern character and situational delivery.
+Use this grammar and mechanics reference alongside [Mailchimp voice and tone](../../writing-decisions/voice-and-rules/mailchimp-tone-voice.md) and [Content and tone guidance](../../writing-decisions/best-practices.md) when checking project copy. Grammar and mechanics govern consistent writing conventions; voice and tone govern character and situational delivery.
 
-Adapted from the user-supplied Mailchimp “Grammar and Mechanics” excerpt. This is a reusable reference, not a global requirement or a claim that these conventions suit every locale. Explicit user instructions, established project conventions, accessibility and factual accuracy take precedence.
+Adapted from the user-supplied Mailchimp “Grammar and Mechanics” excerpt. This is a reusable reference, to be adapted to the project's language and locale. Explicit user instructions, established project conventions, accessibility and factual accuracy take precedence.
+
+<br>
 
 ### Source and adaptation scope
 
@@ -901,15 +1073,21 @@ Based on the user-supplied “Grammar and Mechanics” excerpt from [Mailchimp's
 
 All supplied subject areas are covered. Clarifications address passive-voice detection, audience familiarity, URL and filename case, time-range punctuation, quotation punctuation, locale and time-zone defaults, factual verification, accessible formatting and positive wording. The existing toolkit no-emoji preference overrides the source's permissive emoji rule.
 
+<br>
+
 ### project-questions.md — scope
 
 Use this with [Content and tone guidance](../../writing-decisions/best-practices.md). The goal is a usable starting brief that can change as the project develops.
 
+<br>
+
 ### mailchimp-tone-voice.md — scope
 
-Use this profile when a project explicitly adopts Mailchimp-inspired voice and tone. Apply it alongside [Content and tone guidance](../../writing-decisions/best-practices.md) and record the choice using [Project questions](../../writing-decisions/project-questions.md). Existing user instructions and approved project decisions take precedence.
+Use these general voice and tone instructions when drafting project copy. Apply it alongside [Content and tone guidance](../../writing-decisions/best-practices.md) and record the choice using [Project questions](../../writing-decisions/project-questions.md). Existing user instructions and approved project decisions take precedence.
 
-These rules are an authored adaptation of the Mailchimp “Voice and Tone” excerpt supplied by the user. They are a reference profile, not a requirement to give every project Mailchimp's personality or claim Mailchimp's business history.
+These rules are an authored adaptation of the Mailchimp “Voice and Tone” excerpt supplied by the user. Their source is Mailchimp, but the general advice can guide any project. Choose a voice appropriate to the actual audience and never claim another company's identity or history.
+
+<br>
 
 ### Source and scope
 
@@ -919,27 +1097,37 @@ Coverage: stable voice versus situational tone; an experienced and compassionate
 
 The examples, context table, qualifications and review process are toolkit applications of those principles. This file does not reproduce or replace Mailchimp's separate grammar and mechanics guide.
 
+<br>
+
 ### tone.md — scope
 
 Moved from [Content and tone guidance](../../writing-decisions/best-practices.md). This is an original synthesis of the content-design LMS; existing user instructions and approved project decisions take precedence.
 
 Use [Voice guidance](../../writing-decisions/voice-and-rules/voice/voice.md) for the distinction between voice, tone and mechanics.
 
+<br>
+
 ### Source
 
 The pinned LMS snapshot and provenance are recorded in [design sources](../sources.md).
+
+<br>
 
 ### voice.md — scope
 
 Moved from [Content and tone guidance](../../writing-decisions/best-practices.md). This is an original synthesis of the content-design LMS; existing user instructions and approved project decisions take precedence.
 
+<br>
+
 ### Source
 
 The pinned LMS snapshot and provenance are recorded in [design sources](../sources.md).
 
+<br>
+
 ### Consolidation coverage
 
-The following table records every input file. All original sections were carried into the categories above; source introductions and qualifications are retained under source scope. Repeated guidance remains traceable and should be applied once, not repeated in published copy. This compilation uses repository adaptations; it does not claim a fresh audit of the publishers’ live sites.
+The following table records every input file. The source decisions are organized into the categories above; publisher-specific brand examples are summarized separately from the general instructions. Repeated guidance remains traceable and should be applied once, not repeated in published copy. This compilation uses repository adaptations; it does not claim a fresh audit of the publishers’ live sites.
 
 | Input | Included sections |
 | --- | --- |
