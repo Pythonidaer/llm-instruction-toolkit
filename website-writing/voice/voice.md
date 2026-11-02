@@ -6,7 +6,7 @@ Moved from [Content and tone guidance](../best-practices.md). This is an origina
 
 Voice is the relatively stable identity of the organisation or product. Tone adapts to the purpose, reader and situation. Writing style also includes mechanics such as spelling, punctuation and terminology. Keep these decisions distinct.
 
-Use [Project questions](../project-questions.md) to establish the project brief. For tone profiles, qualities and situational adjustments, use [Tone guidance](../tone/best-practices.md).
+Use [Project questions](../project-questions.md) to establish the project brief. For tone profiles, qualities and situational adjustments, use [Tone guidance](../tone/tone.md).
 
 ## Source
 

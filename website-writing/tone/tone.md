@@ -2,7 +2,7 @@
 
 Moved from [Content and tone guidance](../best-practices.md). This is an original synthesis of the content-design LMS; existing user instructions and approved project decisions take precedence.
 
-Use [Voice guidance](../voice/best-practices.md) for the distinction between voice, tone and mechanics.
+Use [Voice guidance](../voice/voice.md) for the distinction between voice, tone and mechanics.
 
 ## Establish a tone profile
 

@@ -78,11 +78,6 @@ For the example above, remove the sentence when “Website typography studies”
 - Do not treat machine translation or an automated accessibility/readability score as proof of understanding.
 - For learning content, connect the explanation, example, practice and feedback to a useful learning outcome. A short slide is a delivery choice, not proof that learning occurred.
 
-## Voice and tone guidance
-
-- [Voice guidance](voice/best-practices.md): establish product identity and distinguish voice, tone and writing mechanics.
-- [Tone guidance](tone/best-practices.md): choose a profile, apply tone qualities and adapt to the situation.
-
 ## Evaluate the result
 
 - Use real content in a prototype early; test wording and layout together.
