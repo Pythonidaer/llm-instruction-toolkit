@@ -121,7 +121,7 @@ For a new project: establish the brief, choose goals and principles, establish v
 
 <br>
 
-### Navigation: The layers
+### Writing decision layers
 
 | Layer | Question it answers | Example |
 | --- | --- | --- |
@@ -140,7 +140,7 @@ Punctuation is usually included under mechanics. Grammar concerns sentence struc
 
 <br>
 
-### Navigation: A practical order for projects
+### Project workflow
 
 #### 1. Establish the reader and task
 Use [Project questions](../../writing-decisions/project-questions.md) in small batches. Identify the audience, immediate task, required facts and source of truth.
@@ -172,7 +172,7 @@ Can someone understand what happened and complete the task without coaching? Rev
 
 <br>
 
-### Navigation: Quick navigation while working
+### Find guidance for your current task
 
 | If you are asking… | Open… |
 | --- | --- |
