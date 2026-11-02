@@ -2,6 +2,50 @@
 
 Use this folder to decide what content belongs in a project, how it should sound, and how to write it consistently. Work from the reader's needs toward sentence-level details. Return to earlier decisions when testing exposes a problem.
 
+## Purpose, audience and status
+
+This is primarily Johnny's personal toolkit for controlling LLM decisions in web projects, with possible future use in apps. Developer friends can review it without needing the authoring conversation. It is a work in progress, including documentation that still needs review.
+
+Understanding takes priority over brevity. Use plain, descriptive headings and make individual decisions easy to identify. Keep instructions concise where meaning survives; add explanations or examples when they resolve a specific ambiguity. Google and Mailchimp are sources of writing guidance, not services the user must use or brand personalities to adopt.
+
+## How to interpret instructions and notes
+
+- **Active instruction:** an explicit, adopted direction with a defined scope. Apply it when relevant.
+- **Provisional guidance:** a starting choice to explore and revise; do not present it as a settled project requirement.
+- **Study note or open question:** material to understand or revisit; do not execute it as a command.
+
+Use these labels when adding or revising material. Existing files have not all been classified. Do not assume that every sentence is an active instruction, or that a direct instruction is optional merely because the repository is unfinished. When status is unclear and changes the outcome, ask the owner.
+
+## Required behavior when starting website work
+
+For a new website or substantial content rethink, follow the [audience-and-purpose checkpoint](../design/ai-design-reset/content-design.md#required-first-response-audience-and-purpose):
+
+1. Reuse information already supplied. Ask only unresolved questions about audiences, their tasks, the creator's purpose and competing priorities.
+2. End the response after asking and wait for the user's reply before drafting, designing or implementing. If the brief is already available but unconfirmed, summarize it and request confirmation once.
+3. Once answered and confirmed, proceed with the authorized task. Do not repeatedly request confirmation or reopen settled choices.
+4. A provisional brief is enough for exploration. Label assumptions about other people's needs and refine the brief using feedback.
+
+Do not restart this discovery for a narrow maintenance task or an edit to these rules. Explicit instructions to skip it take precedence.
+
+## Which file should an LLM read?
+
+For content-design work, use [the combined content-design instructions](../design/ai-design-reset/content-design.md) as the working entry point. Essential behavior is stated there so it is available even when this README is not loaded.
+
+The files below are detailed study and source references. The combined file already incorporates them; loading them all again is usually redundant. Consult a source file to investigate provenance, an unresolved rule, or a focused revision. Changes to a source file do not automatically synchronize with the combined file: reconcile both deliberately.
+
+For broader website work, [the repository README](../README.md) and [design guidance](../design/README.md) describe the current entry points. A single entry file can route an LLM to relevant instructions; it does not need to contain every rule. Linked documents are not automatically read simply because a link exists, and external repository rules do not activate in unrelated projects unless explicitly loaded or integrated.
+
+## Files in this folder
+
+| Folder | Files | Role |
+| --- | --- | --- |
+| This folder | `README.md`, `best-practices.md`, `project-questions.md` | Orientation, content reference and project intake |
+| `goals-and-principles/` | `google-writing-goals-principles.md`, `mailchimp-writing-goals-principles.md` | Source-based goals and writing principles |
+| `grammar-and-mechanics/` | `mailchimp-grammar-mechanics.md` | Detailed conventions and reference examples |
+| `voice-and-rules/` | `mailchimp-tone-voice.md` | Combined voice-and-tone source reference |
+| `voice-and-rules/voice/` | `voice.md` | Stable product character |
+| `voice-and-rules/tone/` | `tone.md` | Situational delivery |
+
 ## The layers
 
 | Layer | Question it answers | Example |
@@ -36,7 +80,7 @@ Use these as decision criteria. Do not add text merely to demonstrate every goal
 ### 3. Establish voice and adapt tone
 Use [Voice](voice-and-rules/voice/voice.md) for stable identity and [Tone](voice-and-rules/tone/tone.md) for contextual delivery.
 
-[Mailchimp voice and tone](voice-and-rules/mailchimp-tone-voice.md) remains a combined reference pending further separation. Adopt its brand-specific qualities only when they fit the project.
+[Mailchimp voice and tone](voice-and-rules/mailchimp-tone-voice.md) remains a combined reference pending further separation. Use its general lessons about clarity, warmth and context; choose each project's voice deliberately.
 
 ### 4. Draft in the actual interface
 Write headings, labels, instructions, errors and recovery options around the real task. Check what each text element contributes. Keep facts and actions unchanged when comparing tone variants.
@@ -49,7 +93,7 @@ The sentence-opening number rule already follows Google's numeral preference. Pr
 ### 6. Test and revise
 Can someone understand what happened and complete the task without coaching? Review wording and layout together. A correctly punctuated sentence can still be unnecessary or unhelpful.
 
-## Quick navigation while working
+## Find guidance for your current task
 
 | If you are asking… | Open… |
 | --- | --- |
