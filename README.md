@@ -6,10 +6,10 @@ A central collection of development guidance built from my study notes and exper
 
 | Folder | Focus | Current coverage |
 | --- | --- | --- |
-| [design](../design/README.md) | Deliberate website design and reusable patterns | AI design reset, default navigation, optional motion and roadmap, link previews and publishing checks |
-| [writing-decisions](../writing-decisions) | Website content, voice and tone | Content guidance, project questions, Mailchimp references and Google writing principles |
-| [color-theory](../color-theory/README.md) | Intentional color decisions and maintainable color systems | Color fundamentals, hierarchy, accessibility, tokens, interaction states and collaborative review |
-| [clean-code](../clean-code/README.md) | Code readability, maintainability and safe improvements | Reviewed notes from Chapters 1–3 |
+| [design](design/README.md) | Deliberate website design and reusable patterns | AI design reset, default navigation, optional motion and roadmap, link previews and publishing checks |
+| [writing-decisions](writing-decisions/README.md) | Website content, voice and tone | Content guidance, project questions, Mailchimp references and Google writing principles |
+| [color-theory](color-theory/README.md) | Intentional color decisions and maintainable color systems | Color fundamentals, hierarchy, accessibility, tokens, interaction states and collaborative review |
+| [clean-code](clean-code/README.md) | Code readability, maintainability and safe improvements | Reviewed notes from Chapters 1–3 |
 
 ## Use this repository
 
