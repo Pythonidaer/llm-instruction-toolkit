@@ -1,6 +1,6 @@
 # Tone guidance
 
-Moved from [Content and tone guidance](../best-practices.md). This is an original synthesis of the content-design LMS; existing user instructions and approved project decisions take precedence.
+Moved from [Content and tone guidance](../../best-practices.md). This is an original synthesis of the content-design LMS; existing user instructions and approved project decisions take precedence.
 
 Use [Voice guidance](../voice/voice.md) for the distinction between voice, tone and mechanics.
 
@@ -15,7 +15,7 @@ Choose one initial profile across all four [NN/g dimensions](https://www.nngroup
 | Respectfulness | Respectful to irreverent |
 | Enthusiasm | Matter-of-fact to enthusiastic |
 
-These are independent spectrums, not four exclusive tones or a quality ranking. Refine the profile with a few target qualities and qualities to avoid. Use [Project questions](../project-questions.md) to make the choices concrete.
+These are independent spectrums, not four exclusive tones or a quality ranking. Refine the profile with a few target qualities and qualities to avoid. Use [Project questions](../../project-questions.md) to make the choices concrete.
 
 Keep facts, conditions and actions unchanged when comparing tone variants. A tone preference never justifies misleading or unusable content.
 
@@ -53,4 +53,4 @@ These are starting considerations, not mandatory tone presets. Preserve project 
 
 ## Source
 
-The pinned LMS snapshot and provenance are recorded in [design sources](../../design/sources.md).
+The pinned LMS snapshot and provenance are recorded in [design sources](../../../design/sources.md).

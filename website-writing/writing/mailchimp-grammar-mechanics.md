@@ -1,6 +1,6 @@
 # Mailchimp grammar and mechanics rules
 
-Use this house-style profile alongside [Mailchimp voice and tone](mailchimp-tone-voice.md) and [Content and tone guidance](best-practices.md) when a project adopts it. Grammar and mechanics govern consistent writing conventions; voice and tone govern character and situational delivery.
+Use this house-style profile alongside [Mailchimp voice and tone](../voice-and-rules/mailchimp-tone-voice.md) and [Content and tone guidance](../best-practices.md) when a project adopts it. Grammar and mechanics govern consistent writing conventions; voice and tone govern character and situational delivery.
 
 Adapted from the user-supplied Mailchimp “Grammar and Mechanics” excerpt. This is a reusable reference, not a global requirement or a claim that these conventions suit every locale. Explicit user instructions, established project conventions, accessibility and factual accuracy take precedence.
 

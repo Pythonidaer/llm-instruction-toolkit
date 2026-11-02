@@ -21,9 +21,9 @@ Preserve existing approved project design during unrelated work. The navigation 
 | [Visual styling](ai-design-reset/visual-styling.md) | Fonts, color, surfaces, decoration, and icon treatment |
 | [Content design reset](ai-design-reset/content-design.md) | Wording pitfalls, repetition, misleading feedback and tone defaults |
 | [Content and tone guidance](../website-writing/best-practices.md) | User needs, writing, tone, evaluation and maintenance |
-| [Mailchimp writing goals and principles](../website-writing/mailchimp-writing-goals-principles.md) | Content goals, practical writing principles and review questions |
-| [Mailchimp voice and tone](../website-writing/mailchimp-tone-voice.md) | Optional voice profile, contextual tone rules, examples and review checks |
-| [Mailchimp grammar and mechanics](../website-writing/mailchimp-grammar-mechanics.md) | Optional house style for grammar, punctuation, numbers, naming and formatting |
+| [Mailchimp writing goals and principles](../website-writing/writing/mailchimp-writing-goals-principles.md) | Content goals, practical writing principles and review questions |
+| [Mailchimp voice and tone](../website-writing/voice-and-rules/mailchimp-tone-voice.md) | Optional voice profile, contextual tone rules, examples and review checks |
+| [Mailchimp grammar and mechanics](../website-writing/writing/mailchimp-grammar-mechanics.md) | Optional house style for grammar, punctuation, numbers, naming and formatting |
 | [Project questions](../website-writing/project-questions.md) | A small-batch intake and adaptable project tone brief |
 | [Layout and information architecture](ai-design-reset/layout-and-information-architecture.md) | Hierarchy, grouping, page structure, and navigation |
 | [Frosted header and dropdown](patterns/navigation/frosted-header-dropdown.md) | Current default navigation pattern |

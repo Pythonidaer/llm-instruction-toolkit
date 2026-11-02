@@ -1,6 +1,6 @@
 # Mailchimp voice and tone rules
 
-Use this profile when a project explicitly adopts Mailchimp-inspired voice and tone. Apply it alongside [Content and tone guidance](best-practices.md) and record the choice using [Project questions](project-questions.md). Existing user instructions and approved project decisions take precedence.
+Use this profile when a project explicitly adopts Mailchimp-inspired voice and tone. Apply it alongside [Content and tone guidance](../best-practices.md) and record the choice using [Project questions](../project-questions.md). Existing user instructions and approved project decisions take precedence.
 
 These rules are an authored adaptation of the Mailchimp “Voice and Tone” excerpt supplied by the user. They are a reference profile, not a requirement to give every project Mailchimp's personality or claim Mailchimp's business history.
 
