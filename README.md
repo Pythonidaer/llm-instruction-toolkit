@@ -10,6 +10,7 @@ A central collection of development guidance built from my study notes and exper
 | [writing-decisions](writing-decisions/README.md) | Website content, voice and tone | Content guidance, project questions, Mailchimp references and Google writing principles |
 | [color-theory](color-theory/README.md) | Intentional color decisions and maintainable color systems | Color fundamentals, hierarchy, accessibility, tokens, interaction states and collaborative review |
 | [clean-code](clean-code/README.md) | Code readability, maintainability and safe improvements | Reviewed notes from Chapters 1–3 |
+| [code-style-guide](code-style-guide/README.md) | Language-specific conventions and project applicability | Google's TS/JS guide, section by section, with a React/Vite profile |
 
 ## LLM entry point
 
@@ -18,6 +19,7 @@ When asked to apply this toolkit, start here. Identify the authorized task, then
 | Task | Load and apply |
 | --- | --- |
 | Writing, reviewing or refactoring code | [Overview](clean-code/README.md), [workflow](clean-code/review-workflow.md), and applicable added chapters: [foundations](clean-code/chapter-1-foundations.md), [names](clean-code/chapter-2-meaningful-names.md), [functions](clean-code/chapter-3-functions.md). Keep improvements within scope. |
+| Writing, reviewing or refactoring JavaScript, TypeScript or TSX | Also read [TS/JS scope and section index](code-style-guide/typescript/README.md), the [React/Vite applicability profile](code-style-guide/typescript/react-vite-profile.md) when relevant, and applicable section files. Read their detailed rules before claiming compliance. Respect project/framework contracts and recorded exceptions; avoid duplicate Clean Code findings. |
 | Creating a website or substantially redesigning an interface | All three reset files: [visual styling](design/ai-design-reset/visual-styling.md), [content design](design/ai-design-reset/content-design.md), [layout and information architecture](design/ai-design-reset/layout-and-information-architecture.md). For new websites, also integrate [reset.css](design/ai-design-reset/reset.css) using the [CSS baseline instructions](design/ai-design-reset/visual-styling.md#css-baseline). Reconcile existing framework resets instead of stacking them. For narrow changes, read the relevant reset and preserve approved decisions outside the task. |
 | Creating or changing website content | [Writing decisions](writing-decisions/README.md) and [combined content instructions](design/ai-design-reset/content-design.md). Detailed writing sources are already incorporated in the combined file; consult them for clarification, provenance or focused revisions rather than loading everything twice. |
 | Choosing or changing colors, themes, contrast or color tokens | [Color Theory](color-theory/README.md). Apply relevant sections. This is evolving guidance, not an adopted brand identity or palette. Preserve established project choices and ask about unresolved brand intent when it affects the task. |
